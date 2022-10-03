@@ -1,0 +1,5 @@
+@import './reset.css';
+.red {
+  color: '#f40';
+  background: url('./bg.png');
+}
