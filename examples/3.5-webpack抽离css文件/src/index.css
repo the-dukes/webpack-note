@@ -1,0 +1,6 @@
+.main {
+  width: 500px;
+  height: 300px;
+  background: url('./webpack.png');
+  background-size: 100% 100%;
+}
