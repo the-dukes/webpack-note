@@ -16,6 +16,7 @@
     "@babel/core": "^7.19.3",
     "@babel/preset-env": "^7.19.3",
     "babel-loader": "^8.2.5",
+    "cache-loader": "^4.1.0",
     "clean-webpack-plugin": "^4.0.0",
     "copy-webpack-plugin": "^11.0.0",
     "css-loader": "^6.7.1",
@@ -27,6 +28,7 @@
     "postcss-loader": "^7.0.1",
     "postcss-preset-env": "^7.8.2",
     "style-loader": "^3.3.1",
+    "thread-loader": "^3.0.4",
     "url-loader": "^4.1.1",
     "webpack-dev-server": "^4.11.1"
   },
